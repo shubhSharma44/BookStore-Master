@@ -1,0 +1,16 @@
+.list-group {
+  background-color: lightblue;
+  border-style: dotted;
+  border-radius: 10px;
+}
+tbody {
+  background-color: lightblue;
+}
+
+#cout {
+  border-style: dotted;
+}
+
+#option {
+  font-family: cursive;
+}
